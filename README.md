@@ -5,7 +5,7 @@ GoofyTown a besoin de vous !
 
 Matériel de jeu :
 
-15 cartes « Vote »
+15 cartes « Vote » <br>
 32 cartes « Indices »
 4 cartes « Jauge »
 36 jetons de progression
