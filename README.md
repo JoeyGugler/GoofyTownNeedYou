@@ -1,6 +1,9 @@
 # GoofyTownNeedYou
 Board game made in 24h at Game Jam: Focus on Information &amp; Media Innovation at EPFL <br>
-Rules : <br>
+# How To Play <br>
+Copy or download the repo, print all pdf, cut card and read the rules
+
+# Rules : <br>
 GoofyTown a besoin de vous ! <br>
 
 Matériel de jeu :
