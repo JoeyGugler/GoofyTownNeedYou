@@ -1,7 +1,7 @@
 # GoofyTownNeedYou
-Board game made in 24h at Game Jam: Focus on Information &amp; Media Innovation at EPFL
-Rules :
-GoofyTown a besoin de vous !
+Board game made in 24h at Game Jam: Focus on Information &amp; Media Innovation at EPFL <br>
+Rules : <br>
+GoofyTown a besoin de vous ! <br>
 
 Matériel de jeu :
 
