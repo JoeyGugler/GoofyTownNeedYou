@@ -32,6 +32,7 @@ Déroulement d’une partie :<br>
 
 Chaque joueur choisit sa case de départ et lit l’information de la case sans la montrer aux autres joueurs.<br>
 Ensuite, en commençant par le plus jeune et en terminant par le plus vieux, chaque joueur se déplace soit de 2 cases sans lire les indices, soit d’une case et lit l’indice sur cette case.<br>
+Si le joueur décide de lire un indice alors il doit faire un résumé de ce qu’il a apprit, rien ne lui interdit de mentir et rien n’empêche un autre joueur de vérifié son information en se rendant sur la même case.
 Une fois tous les joueurs déplacés, la phase de vote commence. Chaque joueur peut partager les informations qu’il souhaite afin de défendre le vote qu’il désire.<br>
 Après deux minutes de débat, les joueurs votent à main levée pour la solution qu'ils préfèrent. Si un joueur est maire, sa voix compte double.<br>
 La carte « Vote » est retournée et son effet, en fonction du choix fait, est appliqué. En cas d'événement interdit, mettez la carte de côté et, quand le vote pour l’événement suivant a lieu, défaussez directement cette carte et passez à la suivante.<br>
